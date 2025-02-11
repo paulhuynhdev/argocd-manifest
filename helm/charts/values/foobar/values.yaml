@@ -1,7 +1,7 @@
 replicaCount: 1
 
 image:
-  repository: minhkhoa0502/learning_repo
+  repository: vuhuynh1/learning_repo
   tag: ffcde259766b959b6d3c1de5e34e09639418b0cf
 
 podLabels:
