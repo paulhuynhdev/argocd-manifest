@@ -2,7 +2,7 @@ replicaCount: 1
 
 image:
   repository: vuhuynh1/learning_repo
-  tag: ffcde259766b959b6d3c1de5e34e09639418b0cf
+  tag: e65f4638432d44e92a85792f6dc4ef7dcdfa77cf
 
 podLabels:
   app: foobar
